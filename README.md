@@ -27,6 +27,7 @@ Fediska Injector — это современный DLL-инжектор для W
 3. Нажмите "Add DLL" и выберите вашу .dll
 4. Нажмите кнопку "Inject"
 5. Результат появится в окне логов
+    <img width="566" height="254" alt="Main screenshot" src="https://github.com/user-attachments/assets/7a1ef53a-e82b-4cae-bff3-f70387336d44" />
 
 --------------------------------------------------------
 Системные требования:
@@ -44,6 +45,7 @@ Changelog (v5.6):
 - Оптимизация кодовой базы
 - Улучшена совместимость с Windows 10/11
 - Добавлены расширенные логи
+- <img width="449" height="327" alt="Settings Screenshot" src="https://github.com/user-attachments/assets/6a7449a3-9dd5-474b-8a01-cc6d8b45ac07" />
 
 --------------------------------------------------------
 Автор:
