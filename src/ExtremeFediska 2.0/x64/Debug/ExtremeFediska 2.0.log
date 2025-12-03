@@ -1,0 +1,4 @@
+﻿  InjectorGUI.cpp
+D:\FediskaUnlocker\ExtremeFediska 2.0\ExtremeFediska 2.0\InjectorGUI.cpp(187,30): warning C4312: приведение типов: преобразование из "DWORD" в "HANDLE" большего размера
+D:\FediskaUnlocker\ExtremeFediska 2.0\ExtremeFediska 2.0\InjectorGUI.cpp(429,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  ExtremeFediska 2.0.vcxproj -> D:\FediskaUnlocker\ExtremeFediska 2.0\x64\Debug\ExtremeFediska 2.0.exe
