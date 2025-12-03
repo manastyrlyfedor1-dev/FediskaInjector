@@ -51,5 +51,5 @@ Changelog (v5.6):
 Fediska (2025)
 
 Спасибо за использование моего инструмента.
-GitHub: https://github.com/ТВОЙ_НИК/FediskaInjector
+GitHub: https://github.com/manastyrlyfedor1-dev/FediskaInjector
 ========================================================
