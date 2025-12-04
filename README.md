@@ -55,3 +55,8 @@ Fediska (2025)
 Спасибо за использование моего инструмента.
 GitHub: https://github.com/manastyrlyfedor1-dev/FediskaInjector
 ========================================================
+
+⚠️ ВАЖНО: АНТИВИРУСЫ И ДЕТЕКТЫ
+Детект: 6/70 на VirusTotal (Trojan, PUA, Suspicious).
+Причина: Инжектор использует легальные функции Windows (NtOpenProcess и CreateRemoteThread) для внедрения DLL, что является поведенческим флагом для всех антивирусов. Это ЛОЖНОЕ СРАБАТЫВАНИЕ (FALSE POSITIVE).
+Решение: Вам нужно отключить антивирус или добавить наш FediskaInjector.exe в исключения.
